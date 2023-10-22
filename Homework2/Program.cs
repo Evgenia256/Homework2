@@ -2,7 +2,7 @@
 var firstNumber =Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter number 2: ");
 var secondNumber =Convert.ToInt32(Console.ReadLine());
-Console.Write("Enter operation (* or ^ or % or + or -): ");
+Console.Write("Enter math operation: ");
 var operationCharacter = Convert.ToChar(Console.ReadLine());
 
 int? result = operationCharacter switch
@@ -17,6 +17,6 @@ int? result = operationCharacter switch
 
 var resultMessage = result == null
     ? $"Sorry, operation '{operationCharacter}' is not supported"
-    : $"Number 1 ({firstNumber}) {operationCharacter} Number 2 ({secondNumber}) = {result}";
+    : $"{firstNumber} {operationCharacter} {secondNumber} = {result}";
 
 Console.WriteLine(resultMessage);
