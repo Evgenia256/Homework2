@@ -1,8 +1,8 @@
-﻿Console.WriteLine("Enter number 1:");
+﻿Console.Write("Enter number 1: ");
 var firstNumber =Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Enter number 2:");
+Console.Write("Enter number 2: ");
 var secondNumber =Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Enter operation (* or ^ or % or + or -):");
+Console.Write("Enter operation (* or ^ or % or + or -): ");
 var operationCharacter = Convert.ToChar(Console.ReadLine());
 
 int? result = operationCharacter switch
