@@ -1,11 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Напишите число №1:");
-int a =Convert.ToInt32(Console.ReadLine());
+﻿Console.WriteLine("Напишите число №1:");
+var a =Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Напишите число №2:");
-int b =Convert.ToInt32(Console.ReadLine());
+var b =Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Напишите знак операции * или ^ или % или + или - :");
-char c = Convert.ToChar(Console.ReadLine());
+var c = Convert.ToChar(Console.ReadLine());
 if (c == '+')
 {
     var sum = a + b;
