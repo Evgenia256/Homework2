@@ -1,0 +1,15 @@
+C:\СSharpProjects\Homework2\Homework2\bin\Debug\net6.0\Homework2.exe
+C:\СSharpProjects\Homework2\Homework2\bin\Debug\net6.0\Homework2.deps.json
+C:\СSharpProjects\Homework2\Homework2\bin\Debug\net6.0\Homework2.runtimeconfig.json
+C:\СSharpProjects\Homework2\Homework2\bin\Debug\net6.0\Homework2.dll
+C:\СSharpProjects\Homework2\Homework2\bin\Debug\net6.0\Homework2.pdb
+C:\СSharpProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.csproj.AssemblyReference.cache
+C:\СSharpProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\СSharpProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfoInputs.cache
+C:\СSharpProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfo.cs
+C:\СSharpProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.csproj.CoreCompileInputs.cache
+C:\СSharpProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.dll
+C:\СSharpProjects\Homework2\Homework2\obj\Debug\net6.0\refint\Homework2.dll
+C:\СSharpProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.pdb
+C:\СSharpProjects\Homework2\Homework2\obj\Debug\net6.0\Homework2.genruntimeconfig.cache
+C:\СSharpProjects\Homework2\Homework2\obj\Debug\net6.0\ref\Homework2.dll
