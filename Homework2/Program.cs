@@ -1,7 +1,7 @@
 ﻿Console.Write("Enter number 1: ");
-var firstNumber =Convert.ToInt32(Console.ReadLine());
+var firstNumber = Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter number 2: ");
-var secondNumber =Convert.ToInt32(Console.ReadLine());
+var secondNumber = Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter math operation: ");
 var operationCharacter = Convert.ToChar(Console.ReadLine());
 
